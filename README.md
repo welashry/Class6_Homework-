@@ -137,6 +137,11 @@ people who are  40 year old or older have high bmi(body mass index) which increa
 
 #Doker
 
+-Create a directory "dockerFolder" on the desktop and inside it Create a Dockerfile using (vim Dockerfile) contains Operating System such as ubuntu using (FROM Ubuntu:latest) or any OS on DockerHub and running the updates using (RUN apt-get update), then copy the script you want to run using (COPY) command and CMD to run your image
+-Docker build ."to build your image"
+-Now your image successfully built
+-Use (docker run 'image ID') to run your image
+
 
 
 
