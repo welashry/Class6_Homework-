@@ -131,7 +131,7 @@ To have 3D  visualizations:
                             
                             
 the most interest figure i found shows  that the relation between bmi and age(bmi vs age) 
-people who are  40 year old or older have high bmi(body mass index) which increases your risk of having diabetes
+people who are  40 year old or older have high bmi(body mass index) which increases their risk of having diabetes
 
 
 
